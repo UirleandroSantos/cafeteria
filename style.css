@@ -17,6 +17,7 @@ p{
 }
 .cabecalho{
     position: fixed;
+    top: 0;
     background-color: #604829;
     z-index: 1;
     width: 100%;
